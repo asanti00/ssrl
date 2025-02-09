@@ -2,8 +2,8 @@
 
 # AquaLens
 
-Mission Name: AquaLens
-Objective: Monitoring Harmful Algal Blooms using Hyperspectral Imaging
+* Mission Name: AquaLens
+* Objective: Monitoring Harmful Algal Blooms using Hyperspectral Imaging
 
 ## Overview
 
